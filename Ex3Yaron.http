@@ -1,0 +1,6 @@
+@Ex3Yaron_HostAddress = http://localhost:5069
+
+GET {{Ex3Yaron_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
